@@ -1,2 +1,3 @@
-# KAPS-apk
- the .apk build of my game KAPS !
+KAPS.
+
+(plus d'infos bientôt)
