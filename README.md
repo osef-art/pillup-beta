@@ -1,5 +1,7 @@
 # KAPS. 💊
 
+<img height="400" src="img/clips/kaps-clip-2.gif" title="hop le petit clip"/>
+
 [TÉLÉCHARGER LE JEU](https://github.com/osef-art/play-kaps/raw/main/KAPS.apk) 📥👈🏾
 
 yo, c'est adam.  
@@ -20,7 +22,7 @@ parler des **sidekicks** 🤝 qui t'aideront à travers les niveaux et qui eux
 aussi possèdent chacun leur propre **pouvoir** 🧪, je te cache pas que le
 résultat est assez fun. bourré de bugs, mais fun.
 
-<img height="200" src="img/clips/kaps-clip-1.gif" title="hop le petit clip"/>
+<img height="400" src="img/clips/kaps-clip-1.gif" title="hop un autre"/>
 
 ⚠ il s'agit d'une **version alpha** du jeu, c'est à dire qu'il y a pas mal de
 trucs qui manquent, de trucs qui buggent un peu, de trucs temporaires qui vont
@@ -78,6 +80,8 @@ peux aussi bouger les
 **fragments** des pilules. C'est un peu compliqué parce qu'elles sont assez
 rapides, mais c'est archi rentable.
 
+<img height="400" src="img/clips/kaps-clip-3.gif" title="hop le petit clip"/>
+
 ## RÈGLES DU JEU 📜
 
 *(je vais bientôt rajouter un **tuto** dans le jeu détaillant tout ce que je
@@ -107,6 +111,9 @@ rendant le concept plus
   pour compléter un niveau, genre supprimer tels microbes en priorité, ne pas
   poser de pilules à proximité de certains, etc. Mais la vraie **force** du jeu
   réside dans une mécanique bien plus intéressante:
+
+<img height="400" src="img/clips/kaps-clip-sdks.gif" title="guette les sidekicks"/>
+
 - Les [**SIDEKICKS**](#sidekicks-) 🤝. Ce sont des *'principes actifs'* qui
   pourront t'aider en cours de partie. Chaque sidekick a sa propre **
   compétence**, qui pourra être déclenchée **plusieurs fois** pendant le
@@ -154,6 +161,8 @@ partie.
   carrés 3x3**.  
   C'est très chaud à réaliser, mais encore une fois, c'est particulièrement **
   récompensant** en terme de mana, de dégâts et de score.
+
+<img height="400" src="img/clips/kaps-clip-5.gif" title="hop le petit clip"/>
 
 ---
 
@@ -277,3 +286,6 @@ restez à l'affût.
 | **(missile?)** | *(Ca arrive !)* | Une fois détruite, vise un microbe au hasard
 
 ---
+
+<img height="400" src="img/clips/kaps-clip-6.gif" title="hop le petit clip"/>
+
