@@ -20,7 +20,7 @@ parler des **sidekicks** 🤝 qui t'aideront à travers les niveaux et qui eux
 aussi possèdent chacun leur propre **pouvoir** 🧪, je te cache pas que le
 résultat est assez fun. bourré de bugs, mais fun.
 
-![ CLIP1 ](img/clips/kaps-clip-1.gif      "hop le petit clip")
+<img height="200" src="img/clips/kaps-clip-1.gif" title="hop le petit clip"/>
 
 ⚠ il s'agit d'une **version alpha** du jeu, c'est à dire qu'il y a pas mal de
 trucs qui manquent, de trucs qui buggent un peu, de trucs temporaires qui vont
