@@ -1,7 +1,6 @@
 # KAPS. 💊
 
-[TÉLÉCHARGER LE JEU](https://github.com/osef-art/play-kaps/raw/main/KAPS.apk)
-📥👈🏾
+[TÉLÉCHARGER LE JEU](https://github.com/osef-art/play-kaps/raw/main/KAPS.apk) 📥👈🏾
 
 yo, c'est adam.  
 très fier de pouvoir vous montrer mon tout premier **jeu mobile** *"KAPS"*, que
@@ -23,7 +22,7 @@ résultat est assez fun. bourré de bugs, mais fun.
 
 [clip]
 
-⚠ il s'agit d'une **version bêta** du jeu, c'est à dire qu'il y a pas mal de
+⚠ il s'agit d'une **version alpha** du jeu, c'est à dire qu'il y a pas mal de
 trucs qui manquent, de trucs qui buggent un peu, de trucs temporaires qui vont
 être remplacés par des truc mieux, du coup soyez pas surpris si parfois y'a des
 comportements bizarres. 😬  
@@ -44,7 +43,7 @@ qui t'intéresse
 ~  
 [🤝 LES SIDEKICKS](#sidekicks-)  
 [👾 LES MICROBES](#microbes-)  
-[💊 PILULES SPÉCIALES](#glules-spciales-)
+[💊 PILULES SPÉCIALES](#pilules-spciales-)
 
 ## LANCER LE JEU 📱
 
@@ -108,7 +107,7 @@ rendant le concept plus
   pour compléter un niveau, genre supprimer tels microbes en priorité, ne pas
   poser de pilules à proximité de certains, etc. Mais la vraie **force** du jeu
   réside dans une mécanique bien plus intéressante:
-- Les [**SIDEKICKS**](#sidekciks) 🤝. Ce sont des *'principes actifs'* qui
+- Les [**SIDEKICKS**](#sidekicks-) 🤝. Ce sont des *'principes actifs'* qui
   pourront t'aider en cours de partie. Chaque sidekick a sa propre **
   compétence**, qui pourra être déclenchée **plusieurs fois** pendant le
   niveau.  
@@ -160,7 +159,23 @@ partie.
 
 # UPDATES 🚨
 
-*(bientôt!)*
+**🎢 30/09/22:** J'ai ajouté plein de **nouveaux niveaux**, certains ont été
+simplifiés (grille + haute), et j'ai rendu le gameplay beaucoup plus aéré:
+décompte en début de partie, pause subtile entre deux pilules, ajustement de
+la vitesse et de l'accélération au cours du niveau...
+
+**🇫🇷 29/09/22:** J'ai complètement **traduit** le jeu en anglais et en français.
+
+**📥 25/09/22:** Ajout d'un **système de sauvegarde**. Dîtes-vous qu'avant, 
+quand on quittait l'appli et qu'on revenait dessus, il fallait tout reprendre
+depuis le début 😭     
+
+**⚙ 23/09/22:** J'ai rajouté dans le menu pause la possibilité d'éditer pas mal de
+**paramètres**. Certains sont des utilitaires (volume du son, tremblements
+d'écran), mais la plupart sont des paramètres permettant d'ajuster le **gameplay**
+(joystick, swipe, rotation par défaut) afin de le rendre + personnalisé pour
+chaque joueur.
+
 
 ## DEVLOG 👨🏾‍💻
 
@@ -168,7 +183,47 @@ partie.
 
 ## OBJECTIFS 🎯
 
-*(bientôt!)*
+Ca c'est une liste de features, de *"gros morceaux"* qu'il reste à ajouter
+dans le jeu et qui vont demander encore pas mal de semaines de taf:
+
+- **Débloquer les sidekicks au fur et à mesure**. Ca devrait pas être trop
+chaud à faire, mais ça va quand même demander un peu de temps, surtout qu'en
+vrai j'aimerais faire en sorte que l'ordre de leur apparition soit aléatoire,
+en commençant par les moins chauds, puis les plus techniques, et qu'on puisse
+décider entre garder le sidekick ou changer sa team.  
+J'ai aussi envie de pouvoir faire évoluer les sidekicks, ils gagneraient de l'XP
+à chaque fin de partie, et à certains niveaux ils leurs compétences seraient
+un peu améliorées (moins de mana/tours pour être déclenchés, tirs plus précis,
+plus de dégâts...)
+- **Une vraie interface utilisateur.** Là j'ai mis le strict nécessaire et du
+coup les visuels sont un peu tristes en vrai. Je bosserai plus tard sur un vrai
+menu, une vraie direction artistique, de meilleures icones, etc. je vais peut
+être devoir embaucher des gens pour ça donc restez à l'affut 🐀🐀
+- **Mettre des animations quand les sidekicks se déclenchent.** Là c'est un peu
+vide quand on déclenche un sidekick, on voit juste les cases se supprimer en live,
+mais je compte vraiment rajouter une vraie animation des sidekicks qui attaquent
+la grille et qui reviennent à leur place après.
+- **Mettre un système de monnaie** Je veux qu'on puisse gagner de l'oseille
+à chaque fin de niveau, peut être pendant, en débloquant des succès et en
+matant des pubs. Cet argent servira à acheter tout ce qui est proposé dans
+la **boutique**. Ah bah tiens justement:
+- **Ajouter une boutique.** Ce sera un shop dans lequel on pourra acheter des
+sidekicks, des skins (oui oui 😏), des bonus pour les niveaux et même de l'XP
+pour les sidekicks. Je vais sûrement mettre une monnaie premium aussi, je
+pense qu'on pourra acheter que les skins avec, je tiens à ce que mon jeu soit
+pas un *pay to win*.
+- **Le mode multijoueur.** Bon ça je vous laisse la surprise 😏 je dois déjà
+régler tous les problèmes du mode "pas multijoueur" 🥲
+- **Mettre des maps pour les niveaux.** Ca aussi c'est un truc qui va prendre
+pas mal de temps. En fait j'aimerais que chaque map représente un patient, qui
+comportera 20, 25, 30 niveaux. *(nombre à fixer)* Et le fil des niveaux ce sera
+un intestin grêle et tout (même d'autres parties du corps ! 👀) Certains patients
+vont introduire des mécanismes ou des microbes spécifiques. Le souci avec ça
+c'est que ça va demander beaucoup de taf niveau dessins 💀 encore une fois,
+restez à l'affût.
+
+- **...** *(bientôt!)*
+
 
 ### BUGS 💀
 
@@ -178,47 +233,47 @@ partie.
 
 ## SIDEKICKS 🤜‍🤛
 
-| Nom | | Mana | Dégâts | Pouvoir |  
+| Nom | | Mana | Dégâts | Compétence |  
 |---:|:---:|:---:|:---:|:---|   
-| (✨nouv.!) **SHADOW**   | ![ SHADOW ](../Assets/Resources/Sprites/Sidekicks/shadow0.png "Shadow")     | 10 tours | 1 | Enlève toutes les gélules de sa propre couleur de la grille
-| **SLICER**              | ![  JIM   ](../Assets/Resources/Sprites/Sidekicks/slicer1.png "Jim")        | 20       | 1 | Découpe un élément, et tous les autres sur la même ligne
-| **SHOCKWAVE**           | ![  SEAN  ](../Assets/Resources/Sprites/Sidekicks/shockwave1.png "Sean")    | 20       | 2 | Frappe un élément, puis les cases adjacentes
-| **BUTCHER**             | ![ ZYRAME ](../Assets/Resources/Sprites/Sidekicks/butcher1.png "Zyrame")    | 20       | 2 | Découpe deux bactéries aux hasard
-| **PAINTER**             | ![ PAINT  ](../Assets/Resources/Sprites/Sidekicks/painter1.png "Paint")     | 10       |   | Repeins 8 gélules de la grille au hasard
-| **UNI**                 | ![ COLOR  ](../Assets/Resources/Sprites/Sidekicks/uni1.png "Color")         | 4 tours  |   | Génère une gélules avec deux couleurs identiques
-| (✨nouv.!) **CUTTER**   | ![ CUTTER ](../Assets/Resources/Sprites/Sidekicks/cutter0.png "Cutter")     | 18       | 2     | Découpe deux segments de 3 cases, verticaux et horizontaux
-| **MIMAPS**              | ![ MIMAPS ](../Assets/Resources/Sprites/Sidekicks/mimaps0.png "Mimaps")     | 15       | 2 | Brûle 3 éléments de la grille au hasard
-| **BOMBER**              | ![ BOMBER ](../Assets/Resources/Sprites/Sidekicks/bomber0.png "Bomber")     | 13 tours | 1 | Génère une gélules explosive
-| (✨nouv.!) **SAMURAI**  | ![SAMURAI ](../Assets/Resources/Sprites/Sidekicks/samurai0.png "Samurai")   | 15       | 1 | Découpe une diagonale, dans un sens au pif
-| **SNIPER**              | ![ SNIPER ](../Assets/Resources/Sprites/Sidekicks/sniper0.png "Sniper")     | 15       | 3 | Tire sur la bactérie qui a le plus de vie
-| **MOSES**               | ![  RED   ](../Assets/Resources/Sprites/Sidekicks/moses0.png "Red")         | 25       | 2 | Découpe toute une colonne au hasard
-| **MARKSMAN**            | ![ XERETH ](../Assets/Resources/Sprites/Sidekicks/marksman0.png "Xereth")   | 25       | 1 | Découpe deux diagonales
-| (✨nouv.!) **SHUFFLER** | ![SHUFFLER](../Assets/Resources/Sprites/Sidekicks/shuffler0.png "Shuffler") | 8        |   | Repeint TOUTE la grille avec des couleurs au pif
-| (✨nouv.!) **CROSS**    | ![ CROSS  ](../Assets/Resources/Sprites/Sidekicks/cross0.png "Cross")       | 12       |   | Peins un "+" autour de l'objet le plus entouré
-| **???** | *(Coming soon !)* | 12       |   | Freeze définitivement une bactérie avec un cooldown
-| **???** | *(Coming soon !)* | 15       | 3 | Frappe 4 cases au hasard dans la partie basse de la grille
+| (✨nouv.!) **SHADOW**   | ![ SHADOW ](img/sdk/shadow0.png      "Shadow") | 10 tours | 1 | Supprime toutes les pilules de sa couleur
+| **SLICER**              | ![  JIM   ](img/sdk/slicer0.png         "Jim") | 20       | 1 | Tranche une ligne avec au moins un objet dessus
+| **SHOCKWAVE**           | ![  SEAN  ](img/sdk/shockwave0.png     "Sean") | 20       | 2 | Frappe un objet et ses cases adjacentes
+| **BUTCHER**             | ![ ZYRAME ](img/sdk/butcher0.png     "Zyrame") | 20       | 2 | Tranche 2 microbes aux hasard
+| **PAINTER**             | ![PAINTER ](img/sdk/painter0.png    "Painter") | 10       |   | Repeint 7 pilules de la grille dans la couleur de son allié
+| **UNI**                 | ![  UNI   ](img/sdk/uni0.png            "Uni") | 4 tours  |   | Génère une pilule uniforme
+| (✨nouv.!) **CUTTER**   | ![ CUTTER ](img/sdk/cutter0.png      "Cutter") | 18       | 2 | Découpe un segment vertical de 3 cases, puis un horizontal
+| **MIMAPS**              | ![ MIMAPS ](img/sdk/mimaps0.png      "Mimaps") | 15       | 2 | Brûle 3 objets de la grille au hasard
+| **BOMBER**              | ![ BOMBER ](img/sdk/bomber0.png      "Bomber") | 13 tours | 1 | Génère une pilule explosive
+| (✨nouv.!) **SAMURAI**  | ![SAMURAI ](img/sdk/samurai0.png    "Samurai") | 15       | 1 | Tranche une diagonale au hasard
+| **SNIPER**              | ![ SNIPER ](img/sdk/sniper0.png      "Sniper") | 15       | 3 | Tire sur le microbe avec le plus de PV
+| **MOSES**               | ![  RED   ](img/sdk/moses0.png          "Red") | 25       | 2 | Tranche toute une colonne au hasard
+| **MARKSMAN**            | ![ XERETH ](img/sdk/marksman0.png    "Xereth") | 25       | 1 | Tranche deux diagonales
+| (✨nouv.!) **SHUFFLER** | ![SHUFFLER](img/sdk/shuffler0.png  "Shuffler") | 8        |   | Mélange les couleurs des pilules de la grille
+| (✨nouv.!) **CROSS**    | ![ CROSS  ](img/sdk/cross0.png        "Cross") | 12       |   | Supprime une croix ("X") autour d'un objet
+| **? ? ?**               | ![FREEZER ](img/sdk/random_face.png "Freezer") | 12       |   | Gèle définitivement un microbe avec un cooldown
+| **? ? ?**               | ![COPYCAT ](img/sdk/random_face.png "Copycat") | 16       |   | Copie la compétence de son allié; s'il est tout seul, lance une attaque au hasard !
 
 ## MICROBES 🦠
 
-| Nom | | Cooldown | Pouvoir |  
+| Nom | | Cooldown | Compétence |  
 |---:|:---:|:---:|:---|   
-| **BASIC** | ![BASIC](../Assets/Resources/Sprites/Gridobj/skin14/germs/basic/idle_0.png "Basic") | - | "ah gros on est là hein"
-| **WALL**  | ![WALL ](../Assets/Resources/Sprites/Gridobj/skin15/germs/wall/level4/idle_0.png "Wall")  | - | A besoin de plusieurs coups (4 max.) pour être détruit
-| **VIRUS** | ![VIRUS](../Assets/Resources/Sprites/Gridobj/skin16/germs/virus/idle_0.png "Virus") | 8 | Transforme une gélule de la grille au hasard en virus
-| **SPIKE** | ![SPIKE](../Assets/Resources/Sprites/Gridobj/skin4/germs/thorn/idle_0.png "Spike") | 5 | Détruit une gélule adjacente au hasard
-| **???**   | *(Coming soon !)* | 6 | Peut soigner un WALL (de 1PV), ou transformer une bactérie BASIC en WALL
-| **???**   | *(Coming soon !)* | 6 | Échange de place avec la gélule la plus proche
-| **???**   | *(Coming soon !)* | 6 | Change sa propre couleur. comme ça.
-| **???**   | *(Coming soon !)* | 10 | Émet de la fumée devant un élément, masquant sa couleur. (peut être dissipé au contact, ou si l'émetteur est détruit)
-| **???**   | *(Coming soon !)* | - | Protège une bactérie, et doit être détruit pour que la bactérie devienne atteignable.
-| **???**   | *(Coming soon !)* | - | Pareil qu'au dessus, mais fais en sorte de masquer la couleur de la bactérie protégée.
+| **BASIC** | ![BASIC](img/basic.png "Basic") | - | "ah gros on est là hein"
+| **BLOCK** | ![BLOCK](img/block.png "Block") | - | Nécessite plusieurs coups (4 max.) pour être détruit
+| **VIRUS** | ![VIRUS](img/virus.png "Virus") | 8 | Transforme une pilule de la grille au hasard en virus
+| **SPIKE** | ![SPIKE](img/thorn.png "Spike") | 5 | Détruit une pilule adjacente au hasard
+| **? ? ?** | *(Ca arrive !)* | 6  | Peut soigner un **BLOCK** (1PV), ou transformer un microbe **BASIC** en **BLOCK**
+| **? ? ?** | *(Ca arrive !)* | 6  | Échange de place avec la pilule la plus proche
+| **? ? ?** | *(Ca arrive !)* | 6  | Change sa propre couleur. comme ça.
+| **? ? ?** | *(Ca arrive !)* | 10 | Émet de la fumée devant un objet, masquant sa couleur. (peut être dissipé au contact, ou si l'émetteur est détruit)
+| **? ? ?** | *(Ca arrive !)* | -  | Rend un microbe invulnérable. Le bouclier disparaît quand (???) est détruit.
+| **(egg)** | *(Ca arrive !)* | -  | Contient un microbe **BASIC** d'une autre couleur visible par le joueur
 
-## GÉLULES SPÉCIALES ✨💊
+## PILULES SPÉCIALES ✨💊
 
 | Nom | | Effet |  
 |---:|:---:|:---|   
-| **EXPLOSIVE** | ![EXPLOSIVE](../Assets/Resources/Sprites/Gridobj/skin7/caps/bomb/unlinked.png "Explosive") | Explose quand elle est détruite, brûlant toutes les cases autour
-| **JOKER**     | *(Coming soon !)* | Peut être matchée avec n'importe quelle autre couleur
-| **???**       | ? | (Coming soon !)
+| **EXPLOSIVE**  | ![EXPLOSIVE](img/bomb.png "Explosive") | Explose quand elle est détruite, brûlant toutes les cases autour d'elle
+| **JOKER**      | *(Ca arrive !)* | Peut être matchée avec n'importe quelle autre couleur
+| **(missile?)** | *(Ca arrive !)* | Une fois détruite, vise un microbe au hasard
 
 ---
