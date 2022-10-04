@@ -4,7 +4,7 @@
 
 ![](img/clips/kaps-clip-2.gif "hop le petit clip")
 
-[TÉLÉCHARGER LE JEU](https://github.com/osef-art/play-kaps/raw/main/KAPS.apk) 📥👈🏾
+[TÉLÉCHARGER L'APK](https://github.com/osef-art/play-kaps/raw/main/KAPS.apk) 📥👈🏾
 </center>
 
 
