@@ -1,11 +1,8 @@
-<center>
-
 # KAPS. 💊
 
 <img height="400" src="img/clips/kaps-clip-2.gif" title="hop le petit clip"/>  
 
 [TÉLÉCHARGER LE JEU](https://github.com/osef-art/play-kaps/raw/main/KAPS.apk) 📥👈🏾
-</center>
 
 
 yo, c'est adam.  
@@ -26,9 +23,7 @@ parler des **sidekicks** 🤝 qui t'aideront à travers les niveaux et qui eux
 aussi possèdent chacun leur propre **pouvoir** 🧪, je te cache pas que le
 résultat est assez fun. bourré de bugs, mais fun.
 
-<center>
   <img height="400" src="img/clips/kaps-clip-1.gif" title="hop un autre"/>
-</center>
 
 ⚠ il s'agit d'une **version alpha** du jeu, c'est à dire qu'il y a pas mal de
 trucs qui manquent, de trucs qui buggent un peu, de trucs temporaires qui vont
@@ -40,7 +35,6 @@ bon il est probable que je parle beaucoup, du coup je te propose un petit menu
 avec toutes les infos sur le jeu dont j'aimerais faire part. clique sur celle(s)
 qui t'intéresse
 
-<center>
 
 [📱 EH COMMENT ON TÉLÉCHARGE LE JEU ??](#lancer-le-jeu-)  
 [🎮 EH COMMENT ON JOUE ??????](#comment-jouer-)  
@@ -54,7 +48,6 @@ qui t'intéresse
 [🤝 LES SIDEKICKS](#sidekicks-)  
 [👾 LES MICROBES](#microbes-)  
 [💊 PILULES SPÉCIALES](#pilules-spciales-)
-</center>
 
 ## LANCER LE JEU 📱
 
@@ -89,9 +82,7 @@ peux aussi bouger les
 **fragments** des pilules. C'est un peu compliqué parce qu'elles sont assez
 rapides, mais c'est archi rentable.
 
-<center>
   <img height="400" src="img/clips/kaps-clip-3.gif" title="hop le petit clip"/>
-</center>
 
 ## RÈGLES DU JEU 📜
 
@@ -123,9 +114,7 @@ rendant le concept plus
   poser de pilules à proximité de certains, etc. Mais la vraie **force** du jeu
   réside dans une mécanique bien plus intéressante:
 
-  <center>
   <img height="300" src="img/clips/kaps-clip-sdks.gif" title="guette les sidekicks"/>
-</center>
 
 - Les [**SIDEKICKS**](#sidekicks-) 🤝. Ce sont des *'principes actifs'* qui
   pourront t'aider en cours de partie. Chaque sidekick a sa propre **
@@ -175,9 +164,7 @@ partie.
   C'est très chaud à réaliser, mais encore une fois, c'est particulièrement **
   récompensant** en terme de mana, de dégâts et de score.
 
-  <center>
   <img height="400" src="img/clips/kaps-clip-5.gif" title="hop le petit clip"/>
-</center>
 
 ---
 
@@ -302,7 +289,5 @@ restez à l'affût.
 
 ---
 
-<center>
   <img height="400" src="img/clips/kaps-clip-6.gif" title="hop le petit clip"/>
-</center>
 
