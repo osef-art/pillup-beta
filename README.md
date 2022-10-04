@@ -15,7 +15,7 @@ taffer dessus fin juin 2022, depuis j'ai pas arrêté de poncer le truc, 7j/7,
 comme si les gens allaient le télécharger tsais 🤡
 
 **j'explique le principe:** c'est un jeu à la *'Dr. Mario'* pour ceux qui ont la
-ref.pour ceux qui voient pas, disons que ça ressemble un peu à Tetris. des
+ref. pour ceux qui voient pas, disons que ça ressemble un peu à Tetris. des
 pilules 💊 vont tomber dans une grille truffée de microbes 👾. le but est de
 faire des combinaisons (des *matchs*) de la même couleur pour virer tous les
 microbes de la grille façon Pfizer. ✨  
@@ -33,7 +33,7 @@ résultat est assez fun. bourré de bugs, mais fun.
 
 ⚠ il s'agit d'une **version alpha** du jeu, c'est à dire qu'il y a pas mal de
 trucs qui manquent, de trucs qui buggent un peu, de trucs temporaires qui vont
-être remplacés par des truc mieux, du coup soyez pas surpris si parfois y'a des
+être remplacés par des trucs mieux, du coup soyez pas surpris si parfois y'a des
 comportements bizarres. 😬  
 *(ah oui et ceux qui sont sur iOS.... bon au moins vous avez la santé* 🤡)
 
@@ -66,29 +66,6 @@ tel.
 Si tu es sur iPhone, tu pourras toujours regarder tes potes sur Android s'amuser
 🙏🏾  
 Si tu es sur un ordi, j'ai aucune idée de ce que tu fous là.
-
-## COMMENT JOUER 🎮
-
-*(si tu n'as pas lu l'intro ou [les règles](#rgles-du-jeu-), il est possible que
-tu ne comprennes pas grand chose je t'avoue* 💀)  
-Pour **bouger** les pilules, sélectionne-les avec ton doigt et déplace-les
-librement dans la grille.  
-Tu peux aussi les déplacer depuis n'importe quel endroit de l'écran avec le **joystick**.
-Tu peux déplacer la pilule vers la **gauche** ⬅, la **droite** ➡, et
-le bas ⬇.  
-Pour faire **pivoter** une pilule, **tape** 👆 dessus, ou sur n'importe quel
-endroit de l'écran.  
-💨 MOVE STYLÉ: tu peux **swipe vers le bas** pour faire **tomber** la pilule
-super vite. Ca rapporte des points supplémentaires donc hésite pas. 😏
-
-Si le joystick ou le swipe te gênent, tu peux les désactiver à tout moment dans
-les **paramètres**. Tu peux même changer le sens dans lequel tourne la pilule
-par défaut. Si ça c'est pas magnifique.
-
-Très important aussi, quand tu combines des pilules et qu'elles se cassent, tu
-peux aussi bouger les
-**fragments** des pilules. C'est un peu compliqué parce qu'elles sont assez
-rapides, mais c'est archi rentable.
 
 <center>
 
@@ -182,6 +159,29 @@ partie.
   ![](img/clips/kaps-clip-5.gif "hop le petit clip")
 </center>
 
+
+## COMMENT JOUER 🎮
+
+*(si tu n'as pas lu l'intro ou [les règles](#rgles-du-jeu-), il est possible que
+tu ne comprennes pas grand chose je t'avoue* 💀)  
+Pour **bouger** les pilules, sélectionne-les avec ton doigt et déplace-les
+librement dans la grille.  
+Tu peux aussi les déplacer depuis n'importe quel endroit de l'écran avec le **joystick**.
+Tu peux déplacer la pilule vers la **gauche** ⬅, la **droite** ➡, et
+le bas ⬇.  
+Pour faire **pivoter** une pilule, **tape** 👆 dessus, ou sur n'importe quel
+endroit de l'écran.  
+💨 MOVE STYLÉ: tu peux **swipe vers le bas** pour faire **tomber** la pilule
+super vite. Ca rapporte des points supplémentaires donc hésite pas. 😏
+
+Si le joystick ou le swipe te gênent, tu peux les désactiver à tout moment dans
+les **paramètres**. Tu peux même changer le sens dans lequel tourne la pilule
+par défaut. Si ça c'est pas magnifique.
+
+Très important aussi, quand tu combines des pilules et qu'elles se cassent, tu
+peux aussi bouger les
+**fragments** des pilules. C'est un peu compliqué parce qu'elles sont assez
+rapides, mais c'est archi rentable.
 ---
 
 # UPDATES 🚨
