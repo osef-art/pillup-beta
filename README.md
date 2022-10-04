@@ -73,8 +73,8 @@ Si tu es sur un ordi, j'ai aucune idée de ce que tu fous là.
 tu ne comprennes pas grand chose je t'avoue* 💀)  
 Pour **bouger** les pilules, sélectionne-les avec ton doigt et déplace-les
 librement dans la grille.  
-Tu peux aussi les déplacer depuis n'importe quel endroit de l'écran avec le **
-joystick**. Tu peux déplacer la pilule vers la **gauche** ⬅, la **droite** ➡, et
+Tu peux aussi les déplacer depuis n'importe quel endroit de l'écran avec le **joystick**.
+Tu peux déplacer la pilule vers la **gauche** ⬅, la **droite** ➡, et
 le bas ⬇.  
 Pour faire **pivoter** une pilule, **tape** 👆 dessus, ou sur n'importe quel
 endroit de l'écran.  
@@ -100,8 +100,8 @@ rapides, mais c'est archi rentable.
 *(je vais bientôt rajouter un **tuto** dans le jeu détaillant tout ce que je
 vais raconter ici, mais lis quand même on sait jamais.)*
 
-Chaque niveau est une **grille** dont certaines cases sont occupées par des **
-microbes** colorés.  
+Chaque niveau est une **grille** dont certaines cases sont occupées par des **microbes**
+colorés.  
 Au fur et à mesure, des **pilules** colorées vont tomber dans la grille et
 s'empiler. Le gameplay consiste à réaliser des **combinaisons** de **4 objets**
 de la **même couleur** pour détruire ces 4 objets. On appelle ça un **match-4**
@@ -131,8 +131,8 @@ rendant le concept plus
 </center>
 
 - Les [**SIDEKICKS**](#sidekicks-) 🤝. Ce sont des *'principes actifs'* qui
-  pourront t'aider en cours de partie. Chaque sidekick a sa propre **
-  compétence**, qui pourra être déclenchée **plusieurs fois** pendant le
+  pourront t'aider en cours de partie. Chaque sidekick a sa propre **compétence**, 
+  qui pourra être déclenchée **plusieurs fois** pendant le
   niveau.  
   Certains **éradiquent** des microbes, d'autres suppriment des **lignes**,
   des **colonnes**
@@ -173,10 +173,9 @@ partie.
 - 🌡 Enchaîner plusieurs *matchs* d'affilée démarre un **combo**.  
   Plus il est élevé, plus il a de chances de générer de la mana supplémentaires
   à chaque match.
-- ⏹ Il est possible de *matcher* des lignes et des colonnes, mais aussi des **
-  carrés 3x3**.  
-  C'est très chaud à réaliser, mais encore une fois, c'est particulièrement **
-  récompensant** en terme de mana, de dégâts et de score.
+- ⏹ Il est possible de *matcher* des lignes et des colonnes, mais aussi des **carrés 3x3**.  
+  C'est très chaud à réaliser, mais encore une fois, c'est particulièrement **récompensant** 
+  en terme de mana, de dégâts et de score.
 
 <center>
 
