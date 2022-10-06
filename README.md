@@ -39,7 +39,7 @@ comportements bizarres. 😬
 
 bon il est probable que je parle beaucoup, du coup je te propose un petit menu
 avec toutes les infos sur le jeu dont j'aimerais faire part. clique sur celle(s)
-qui t'intéresse
+qui t'intéresse(nt)
 
 <center>
 
@@ -203,6 +203,27 @@ d'écran), mais la plupart sont des paramètres permettant d'ajuster le **gamepl
 (joystick, swipe, rotation par défaut) afin de le rendre + personnalisé pour
 chaque joueur.
 
+### FIXS ! 🔨
+
+**05/10/22:** J'ai réglé le fait que quand une capsule se cassait en **fragment(s)**,
+on pouvait pas attraper le fragment tout de suite.  
+En fait c'était à cause des effets
+de score et de mana qui se mettaient devant 😭 merci à #LvLup三Skorpio#7366 grâce à
+qui j'ai eu ce flash 🧠  
+
+J'ai aussi un peu corrigé les sidekicks qui pouvaient faire **freeze** la pilule
+quand ils se déclenchaient, en vrai c'est surtout du au fait que je voulais que
+les pilules arrêtent de descendre quand un sidekick entre en action *(pour qu'on
+puisse se concentrer sur la grille et permettre au joueur de souffler un peu)*,
+le problème c'est que quand on en déclenche 2 en même temps, ça peut faire des
+dingueries 💀 j'ose même pas imaginer ce qui se passe quand on met sur pause
+pendant une attaque 💀💀💀💀
+
+d'ailleurs merci à tous les testeurs de l'alpha pour vos retours et vos tests !! ✨
+je vais bientôt créer un discord, vous aurez un rôle VIP qui vous permettra
+d'obtenir des trucs premium du jeu (quand y'en aura 😭)  
+en plus y'en a qui jouent le jeu de fou, avec des screens à l'appui, des scénarios
+détaillés et tout 💀 eux c'est accès au paradis direct
 
 ## DEVLOG 👨🏾‍💻
 
@@ -252,9 +273,13 @@ restez à l'affût.
 - **...** *(bientôt!)*
 
 
-### BUGS 💀
+## BUGS 💀
 
 *(bon ça pas besoin d'attendre)*
+
+- Le sidekick **Shadow** bug de fou, parfois en supprimant une capsule il en
+fait tomber d'autres, et du coup celles qui sont dans sa couleur et qui tombent
+ne se suppriment pas. 
 
 ---
 
