@@ -4,11 +4,13 @@
 
 ![](img/clips/kaps-clip-2.gif "hop le petit clip")
 
-[TÉLÉCHARGER L'APK](https://github.com/osef-art/play-kaps/raw/main/KAPS.apk) 📥👈🏾
+[TÉLÉCHARGER L'APK](https://github.com/osef-art/play-kaps/raw/main/KAPS.apk) 📥👈🏾  
+~ ~ ~   
+[CHECKER LA PAGE ITCH.IO](https://osefwastaken.itch.io/kaps) 🏪
 </center>
 
 
-yo, c'est adam.  
+yo.  
 très fier de pouvoir vous montrer mon tout premier **jeu mobile** *"KAPS"*, que
 j'ai codé et dessiné de A à Z avec [Unity](https://unity.com/). j'ai commencé à
 taffer dessus fin juin 2022, depuis j'ai pas arrêté de poncer le truc, 7j/7,
@@ -227,7 +229,11 @@ détaillés et tout 💀 eux c'est accès au paradis direct
 
 ## DEVLOG 👨🏾‍💻
 
-*(bientôt!)*
+- Bon en ce moment j'ai un peu mis en pause le développement du jeu pour me
+concentrer à fond sur les feedbacks et la création de pages dédiées, d'ailleurs j'ai
+créé une page [itch.io](https://osefwastaken.itch.io/kaps) et un
+[discord](https://discord.gg/8HKEnfzaGq), foncez !!
+<iframe src="https://discord.com/widget?id=1027019198607659019&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## OBJECTIFS 🎯
 
@@ -279,7 +285,15 @@ restez à l'affût.
 
 - Le sidekick **Shadow** bug de fou, parfois en supprimant une capsule il en
 fait tomber d'autres, et du coup celles qui sont dans sa couleur et qui tombent
-ne se suppriment pas. 
+ne se suppriment pas.  
+- Parfois le jeu **freeze** sans aucun motif particulier. Genre on peut même pas
+appuyer sur pause. Ca rend ouf.
+- Parfois le jeu **freeze** mais on peut quand même mettre sur pause, la plupart
+du temps on peut aussi bouger la capsule mais juste elle tombe pas, bon ça pour
+le coup je peux corriger mais j'arrive pas à voir comment ça se fait.  
+- Quand on dépose plusieurs capsules/fragements sur la même colonne et qu'elles
+sont superposées, parfois y'en a qui fusionnent au lieu de s'empiler :/ assez galère
+à corriger mais à voir
 
 ---
 
@@ -287,21 +301,21 @@ ne se suppriment pas.
 
 | Nom | | Mana | Dégâts | Compétence |  
 |---:|:---:|:---:|:---:|:---|   
-| (✨nouv.!) **SHADOW**   | ![ SHADOW ](img/sdk/shadow0.png      "Shadow") | 10 tours | 1 | Supprime toutes les pilules de sa couleur
-| **SLICER**              | ![  JIM   ](img/sdk/slicer0.png         "Jim") | 20       | 1 | Tranche une ligne avec au moins un objet dessus
-| **SHOCKWAVE**           | ![  SEAN  ](img/sdk/shockwave0.png     "Sean") | 20       | 2 | Frappe un objet et ses cases adjacentes
-| **BUTCHER**             | ![ ZYRAME ](img/sdk/butcher0.png     "Zyrame") | 20       | 2 | Tranche 2 microbes aux hasard
-| **PAINTER**             | ![PAINTER ](img/sdk/painter0.png    "Painter") | 10       |   | Repeint 7 pilules de la grille dans la couleur de son allié
-| **UNI**                 | ![  UNI   ](img/sdk/uni0.png            "Uni") | 4 tours  |   | Génère une pilule uniforme
-| (✨nouv.!) **CUTTER**   | ![ CUTTER ](img/sdk/cutter0.png      "Cutter") | 18       | 2 | Découpe un segment vertical de 3 cases, puis un horizontal
-| **MIMAPS**              | ![ MIMAPS ](img/sdk/mimaps0.png      "Mimaps") | 15       | 2 | Brûle 3 objets de la grille au hasard
-| **BOMBER**              | ![ BOMBER ](img/sdk/bomber0.png      "Bomber") | 13 tours | 1 | Génère une pilule explosive
-| (✨nouv.!) **SAMURAI**  | ![SAMURAI ](img/sdk/samurai0.png    "Samurai") | 15       | 1 | Tranche une diagonale au hasard
-| **SNIPER**              | ![ SNIPER ](img/sdk/sniper0.png      "Sniper") | 15       | 3 | Tire sur le microbe avec le plus de PV
-| **MOSES**               | ![  RED   ](img/sdk/moses0.png          "Red") | 25       | 2 | Tranche toute une colonne au hasard
-| **MARKSMAN**            | ![ XERETH ](img/sdk/marksman0.png    "Xereth") | 25       | 1 | Tranche deux diagonales
-| (✨nouv.!) **SHUFFLER** | ![SHUFFLER](img/sdk/shuffler0.png  "Shuffler") | 8        |   | Mélange les couleurs des pilules de la grille
 | (✨nouv.!) **CROSS**    | ![ CROSS  ](img/sdk/cross0.png        "Cross") | 12       |   | Supprime une croix ("X") autour d'un objet
+| (✨nouv.!) **SHUFFLER** | ![SHUFFLER](img/sdk/shuffler0.png  "Shuffler") |  8       |   | Mélange les couleurs des pilules de la grille
+| **MARKSMAN**            | ![ XERETH ](img/sdk/marksman0.png    "Xereth") | 25       | 1 | Tranche deux diagonales
+| **MOSES**               | ![  RED   ](img/sdk/moses0.png          "Red") | 25       | 2 | Tranche toute une colonne au hasard
+| **SNIPER**              | ![ SNIPER ](img/sdk/sniper0.png      "Sniper") | 15       | 3 | Tire sur le microbe avec le plus de PV
+| (✨nouv.!) **SAMURAI**  | ![SAMURAI ](img/sdk/samurai0.png    "Samurai") | 15       | 1 | Tranche une diagonale au hasard
+| **BOMBER**              | ![ BOMBER ](img/sdk/bomber0.png      "Bomber") | 13 tours | 1 | Génère une pilule explosive
+| **MIMAPS**              | ![ MIMAPS ](img/sdk/mimaps0.png      "Mimaps") | 15       | 2 | Brûle 3 objets de la grille au hasard
+| (✨nouv.!) **CUTTER**   | ![ CUTTER ](img/sdk/cutter0.png      "Cutter") | 18       | 2 | Découpe un segment vertical de 3 cases, puis un horizontal
+| **UNI**                 | ![  UNI   ](img/sdk/uni0.png            "Uni") |  4 tours |   | Génère une pilule uniforme
+| **PAINTER**             | ![PAINTER ](img/sdk/painter0.png    "Painter") | 10       |   | Repeint 6 pilules de la grille dans la couleur de son allié
+| **BUTCHER**             | ![ ZYRAME ](img/sdk/butcher0.png     "Zyrame") | 20       | 2 | Tranche 2 microbes aux hasard
+| **SHOCKWAVE**           | ![  SEAN  ](img/sdk/shockwave0.png     "Sean") | 20       | 2 | Frappe un objet et ses cases adjacentes
+| **SLICER**              | ![  JIM   ](img/sdk/slicer0.png         "Jim") | 20       | 1 | Tranche une ligne avec au moins un objet dessus
+| (✨nouv.!) **SHADOW**   | ![ SHADOW ](img/sdk/shadow0.png      "Shadow") | 10 tours | 1 | Supprime toutes les pilules de sa couleur
 | **? ? ?**               | ![FREEZER ](img/sdk/random_face.png "Freezer") | 12       |   | Gèle définitivement un microbe avec un cooldown
 | **? ? ?**               | ![COPYCAT ](img/sdk/random_face.png "Copycat") | 16       |   | Copie la compétence de son allié; s'il est tout seul, lance une attaque au hasard !
 
