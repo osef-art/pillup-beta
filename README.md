@@ -1,17 +1,17 @@
 <center>
 
-# KAPS. 💊
+# PILLUP! 💊
 
 ![](img/clips/kaps-clip-2.gif "hop le petit clip")
 
-[TÉLÉCHARGER L'APK](https://github.com/osef-art/play-kaps/raw/main/KAPS.apk) 📥👈🏾  
+[TÉLÉCHARGER L'APK](https://github.com/osef-art/play-pillup/raw/main/KAPS.apk) 📥👈🏾  
 ~ ~ ~   
-[CHECKER LA PAGE ITCH.IO](https://osefwastaken.itch.io/kaps) 🏪
+[CHECKER LA PAGE ITCH.IO](https://osef-ptn.itch.io/pillup) 🏪
 </center>
 
 
 yo.  
-très fier de pouvoir vous montrer mon tout premier **jeu mobile** *"KAPS"*, que
+très fier de pouvoir vous montrer mon tout premier **jeu mobile** *"KAPS"* (aujourd'hui "PILLUP"), que
 j'ai codé et dessiné de A à Z avec [Unity](https://unity.com/). j'ai commencé à
 taffer dessus fin juin 2022, depuis j'ai pas arrêté de poncer le truc, 7j/7,
 comme si les gens allaient le télécharger tsais 🤡
